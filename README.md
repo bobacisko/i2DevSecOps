@@ -7,7 +7,7 @@ training  practice
 
 2. Create a scaffold site using Jekyll.
 
-3. Add the GitHub Pages gem to the site’s Gemfile. See the instructions from the GitHub Pages Ruby Gem for more details.
+3. Add the GitHub Pages gem to the site’s Gemfile. See the instructions from the [GitHub Pages Ruby Gem](https://github.com/github/pages-gem) for more details.
 
 4. Preview your site locally using Jekyll. It’s always a good idea to view the site after making changes and before pushing your changes to GitHub.
 
